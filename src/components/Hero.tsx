@@ -31,7 +31,7 @@ export default function Hero() {
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight tracking-tight">
           Andrew
           <br />
-          <span className="text-blue-400">McMorrau</span>
+          <span className="text-blue-400">McMorroooooo</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-slate-400 font-medium mb-4">
