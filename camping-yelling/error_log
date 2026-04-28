@@ -1,0 +1,140 @@
+[04-Mar-2025 03:01:59 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:01:59 UTC] Database connection successful
+[04-Mar-2025 03:01:59 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: yes, Guests: 1
+[04-Mar-2025 03:01:59 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:01:59 UTC] Error: SQLSTATE[42501]: Insufficient privilege: 7 ERROR:  permission denied for relation rsvps
+[04-Mar-2025 03:03:23 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:03:23 UTC] Database connection successful
+[04-Mar-2025 03:03:23 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: yes, Guests: 1
+[04-Mar-2025 03:03:23 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:03:23 UTC] Error: SQLSTATE[42501]: Insufficient privilege: 7 ERROR:  permission denied for sequence rsvps_id_seq
+[04-Mar-2025 03:04:41 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:04:41 UTC] Database connection successful
+[04-Mar-2025 03:04:41 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: yes, Guests: 1
+[04-Mar-2025 03:04:41 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:04:41 UTC] Insert result: Success
+[04-Mar-2025 03:05:08 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:05:08 UTC] Database connection successful
+[04-Mar-2025 03:05:08 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: yes, Guests: 3
+[04-Mar-2025 03:05:08 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:05:08 UTC] Insert result: Success
+[04-Mar-2025 03:18:56 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:18:56 UTC] Database connection successful
+[04-Mar-2025 03:18:56 UTC] Received form data - Name: Libby , Email: Raulibby@gmaiil.com, Attendance: yes, Guests: 1
+[04-Mar-2025 03:18:57 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:18:57 UTC] Insert result: Success
+[04-Mar-2025 03:19:06 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:19:07 UTC] Database connection successful
+[04-Mar-2025 03:19:07 UTC] Received form data - Name: Libby , Email: Raulibby@gmaiil.com, Attendance: yes, Guests: 2
+[04-Mar-2025 03:19:07 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:19:07 UTC] Insert result: Success
+[04-Mar-2025 03:19:15 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:19:15 UTC] Database connection successful
+[04-Mar-2025 03:19:15 UTC] Received form data - Name: Libby , Email: Raulibby@gmaiil.com, Attendance: yes, Guests: 2
+[04-Mar-2025 03:19:15 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:19:15 UTC] Insert result: Success
+[04-Mar-2025 03:19:19 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:19:19 UTC] Database connection successful
+[04-Mar-2025 03:19:19 UTC] Received form data - Name: Libby , Email: Raulibby@gmaiil.com, Attendance: yes, Guests: 2
+[04-Mar-2025 03:19:19 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:19:19 UTC] Insert result: Success
+[04-Mar-2025 03:24:42 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:24:42 UTC] Database connection successful
+[04-Mar-2025 03:24:42 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: bbq_only, Guests: 3
+[04-Mar-2025 03:24:42 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:24:42 UTC] Insert result: Success
+[04-Mar-2025 03:28:00 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:28:00 UTC] Database connection successful
+[04-Mar-2025 03:28:00 UTC] Received form data - Name: Andy, Email: amcmorrow84@proton.me, Attendance: tubing, Guests: 3
+[04-Mar-2025 03:28:00 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:28:00 UTC] Insert result: Success
+[04-Mar-2025 03:34:17 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 03:34:17 UTC] Database connection successful
+[04-Mar-2025 03:34:17 UTC] Received form data - Name: Andy McMorrow, Email: amcmorrow84@proton.me, Attendance: bbq_only, Guests: 1
+[04-Mar-2025 03:34:17 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 03:34:17 UTC] Insert result: Success
+[04-Mar-2025 04:05:13 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 04:05:13 UTC] Database connection successful
+[04-Mar-2025 04:05:13 UTC] Received form data - Name: Andrew McMorrow, Email: amcmorrow@revobrands.com, Attendance: bbq_only, Guests: 4
+[04-Mar-2025 04:05:13 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 04:05:13 UTC] Insert result: Success
+[04-Mar-2025 04:11:03 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 04:11:03 UTC] Database connection successful
+[04-Mar-2025 04:11:03 UTC] Received form data - Name: Paige, Email: paigeguggemos@gmail.com, Attendance: yes, Guests: 1
+[04-Mar-2025 04:11:03 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 04:11:04 UTC] Insert result: Success
+[04-Mar-2025 13:56:10 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 13:56:10 UTC] Database connection successful
+[04-Mar-2025 13:56:10 UTC] Received form data - Name: Donkey Man, Email: donkeyman@aol.com, Attendance: no, Guests: 1
+[04-Mar-2025 13:56:10 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 13:56:10 UTC] Insert result: Success
+[04-Mar-2025 14:53:44 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 14:53:44 UTC] Database connection successful
+[04-Mar-2025 14:53:44 UTC] Received form data - Name: Colin McMarlos, Email: mcmorrow.colin@gmail.com, Attendance: yes, Guests: 1
+[04-Mar-2025 14:53:44 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 14:53:44 UTC] Insert result: Success
+[04-Mar-2025 15:14:49 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 15:14:49 UTC] Database connection successful
+[04-Mar-2025 15:14:49 UTC] Received form data - Name: Derek McMorrow, Email: derek.mcmorrow@gmail.com, Attendance: yes, Guests: 1
+[04-Mar-2025 15:14:49 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 15:14:49 UTC] Insert result: Success
+[04-Mar-2025 19:28:21 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 19:28:21 UTC] Database connection successful
+[04-Mar-2025 19:28:21 UTC] Received form data - Name: Leah Nelson , Email: leahknelson23@gmail.com, Attendance: yes, Guests: 1
+[04-Mar-2025 19:28:21 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 19:28:21 UTC] Insert result: Success
+[04-Mar-2025 22:20:53 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 22:20:54 UTC] Database connection successful
+[04-Mar-2025 22:20:54 UTC] Received form data - Name: Angeline Palen, Email: aepalen@gmail.com, Attendance: yes, Guests: 3
+[04-Mar-2025 22:20:54 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 22:20:54 UTC] Insert result: Success
+[04-Mar-2025 23:04:17 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[04-Mar-2025 23:04:17 UTC] Database connection successful
+[04-Mar-2025 23:04:17 UTC] Received form data - Name: Katherine Pitcock, Email: katiepitcock@gmail.com, Attendance: yes, Guests: 2
+[04-Mar-2025 23:04:17 UTC] Preparing to insert data into rsvps table
+[04-Mar-2025 23:04:17 UTC] Insert result: Success
+[05-Mar-2025 02:17:40 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[05-Mar-2025 02:17:40 UTC] Database connection successful
+[05-Mar-2025 02:17:40 UTC] Received form data - Name: Roxanne Rau, Email: roxrau@gmail.com, Attendance: yes, Guests: 1
+[05-Mar-2025 02:17:41 UTC] Preparing to insert data into rsvps table
+[05-Mar-2025 02:17:41 UTC] Insert result: Success
+[05-Mar-2025 02:21:32 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[05-Mar-2025 02:21:32 UTC] Database connection successful
+[05-Mar-2025 02:21:32 UTC] Received form data - Name: Al, Email: rauallen@outlook.com, Attendance: yes, Guests: 1
+[05-Mar-2025 02:21:32 UTC] Preparing to insert data into rsvps table
+[05-Mar-2025 02:21:32 UTC] Insert result: Success
+[05-Mar-2025 15:11:53 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[05-Mar-2025 15:11:53 UTC] Database connection successful
+[05-Mar-2025 15:11:53 UTC] Received form data - Name: Rachael Klosowski, Email: rachael.am.klosowski@gmail.com, Attendance: yes, Guests: 3
+[05-Mar-2025 15:11:53 UTC] Preparing to insert data into rsvps table
+[05-Mar-2025 15:11:53 UTC] Insert result: Success
+[08-Mar-2025 02:22:51 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[08-Mar-2025 02:22:51 UTC] Database connection successful
+[08-Mar-2025 02:22:51 UTC] Received form data - Name: T, Email: theresapink@gmail.com, Attendance: yes, Guests: 1
+[08-Mar-2025 02:22:51 UTC] Preparing to insert data into rsvps table
+[08-Mar-2025 02:22:51 UTC] Insert result: Success
+[15-Mar-2025 20:21:14 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[15-Mar-2025 20:21:14 UTC] Database connection successful
+[15-Mar-2025 20:21:14 UTC] Received form data - Name: Sabrina , Email: s.m.skjelbostad@gmail.com, Attendance: yes, Guests: 2
+[15-Mar-2025 20:21:14 UTC] Preparing to insert data into rsvps table
+[15-Mar-2025 20:21:14 UTC] Insert result: Success
+[16-Mar-2025 16:32:06 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[16-Mar-2025 16:32:06 UTC] Database connection successful
+[16-Mar-2025 16:32:06 UTC] Received form data - Name: Dolezal, greevers, Email: dolezal.erik@gmail.com, Attendance: maybe, Guests: 2
+[16-Mar-2025 16:32:06 UTC] Preparing to insert data into rsvps table
+[16-Mar-2025 16:32:06 UTC] Insert result: Success
+[19-Mar-2025 15:01:24 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[19-Mar-2025 15:01:24 UTC] Database connection successful
+[19-Mar-2025 15:01:24 UTC] Received form data - Name: Laura, Email: lababcock3@gmail.com, Attendance: yes, Guests: 1
+[19-Mar-2025 15:01:24 UTC] Preparing to insert data into rsvps table
+[19-Mar-2025 15:01:24 UTC] Insert result: Success
+[15-Apr-2025 14:42:17 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[15-Apr-2025 14:42:17 UTC] Database connection successful
+[15-Apr-2025 14:42:17 UTC] Received form data - Name: Brian, D, Oli, Email: brian.vanhout@gmail.com, Attendance: yes, Guests: 3
+[15-Apr-2025 14:42:17 UTC] Preparing to insert data into rsvps table
+[15-Apr-2025 14:42:17 UTC] Insert result: Success
+[11-May-2025 01:52:10 UTC] Attempting to connect to database: localhost:5432/amcmorrow_db2 as amcmorrow_admin
+[11-May-2025 01:52:10 UTC] Database connection successful
+[11-May-2025 01:52:10 UTC] Received form data - Name: Justin & Ben , Email: justinkutzer@gmail.com, Attendance: yes, Guests: 2
+[11-May-2025 01:52:10 UTC] Preparing to insert data into rsvps table
+[11-May-2025 01:52:10 UTC] Insert result: Success

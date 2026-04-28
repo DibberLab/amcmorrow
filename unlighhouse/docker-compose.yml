@@ -1,0 +1,8 @@
+services:
+  unlighthouse:
+    container_name: unlighthouse
+    image: ghcr.io/indykoning/unlighthouse-docker:master
+    environment:
+      - SITE=https://realavid.com
+    ports:
+      - 5678:5678

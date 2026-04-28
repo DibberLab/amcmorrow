@@ -1,0 +1,18 @@
+﻿echo "\COPY rsvps FROM 'rsvps.csv' WITH (FORMAT csv, HEADER true);" > import.sqlid,name,email,attendance,guests,message,created_at
+11,Paige,paigeguggemos@gmail.com,yes,1,hi andy,3/3/25 11:11 PM
+9,Andy McMorrow,amcmorrow84@proton.me,yes,1,Just adding my name to the list...,3/3/25 10:34 PM
+6,Libby,Raulibby@gmaiil.com,yes,1,I will BBQ and make breakfast for the campground ...,3/3/25 10:19 PM
+14,Derek McMorrow,derek.mcmorrow@gmail.com,yes,1,,3/4/25 10:14 AM
+13,Colin McMorrow,mcmorrow.colin@gmail.com,yes,1,Hooray,3/4/25 9:53 AM
+15,Leah Nelson,leahknelson23@gmail.com,yes,1,It's actually just a rat,3/4/25 2:28 PM
+16,Angeline Palen,aepalen@gmail.com,yes,3,Yaaaay! We’ll bring Mr. Jules.,3/4/25 5:20 PM
+17,Katherine Pitcock,katiepitcock@gmail.com,yes,2,Yayayayayaaay! We'll be there!!,3/4/25 6:04 PM
+18,Roxanne Rau,roxrau@gmail.com,yes,1,Whoopie!!!,3/4/25 9:17 PM
+19,Al,rauallen@outlook.com,yes,1,,3/4/25 9:21 PM
+20,Rachael Klosowski,rachael.am.klosowski@gmail.com,yes,3,We will be there but unsure about staying the nig...,3/5/25 10:11 AM
+21,T,theresapink@gmail.com,yes,1,,3/7/25 9:22 PM
+22,Sabrina,s.m.skjelbostad@gmail.com,yes,2,Margot and Me,3/15/25 4:21 PM
+23,"Dolezal, greevers",dolezal.erik@gmail.com,maybe,2,Butts stink,3/16/25 12:32 PM
+24,Laura,lababcock3@gmail.com,yes,1,As long as a coach doesn’t surprise us with a soc...,3/19/25 11:01 AM
+25,"Brian, D, Oli",brian.vanhout@gmail.com,yes,3,"Yes for tubing, bbq. Camping TBD",4/15/25 10:42 AM
+26,Justin & Ben,justinkutzer@gmail.com,yes,2,Can’t wait!,5/10/25 9:52 PM

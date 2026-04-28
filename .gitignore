@@ -1,0 +1,13 @@
+# Databases and Backups
+*.sql
+*.wpress
+*.tar.gz
+*.zip
+*.log
+ib_logfile*
+
+# Environment/Secret files
+.env
+
+# Node/Dependencies
+node_modules/

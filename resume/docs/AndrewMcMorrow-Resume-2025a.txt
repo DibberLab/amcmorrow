@@ -1,0 +1,54 @@
+Andrew McMorrow
+Minneapolis, MN | amcmorrow84@proton.me | 612-384-8959 | amcmorrow.com
+Professional Summary
+
+Results-driven Ecommerce Manager with over 10 years of experience in D2C ecommerce, digital marketing, and user experience optimization. Proven expertise in driving revenue growth, leading cross-functional teams, and implementing technical solutions. Skilled in website migration, email marketing automation, data analysis, and enhancing customer engagement. Adept at using data-driven strategies to optimize digital platforms and achieve business goals.
+
+Core Competencies
+•	Ecommerce Management & Optimization
+•	D2C Strategy & Execution
+•	Data-Driven Strategy & A/B Testing
+•	Performance Analytics & Reporting
+•	Email Marketing (Klaviyo, ExactTarget)
+•	Website Development & Migration
+•	AI & Automation Tools
+•	UX/UI Design & Accessibility
+•	Content Creation & Marketing
+•	Automation & Workflow Optimization
+
+Professional Experience
+Revo Brands - Maple Grove, MN D2C & Ecommerce Manager | Oct 2021-Present
+•	Led the D2C strategy for three brands, overseeing website content, product merchandising, and promotional campaigns on Shopify to drive sales and customer loyalty.
+•	Spearheaded ecommerce strategies, optimizing websites and wholesale dealer portals, which resulted in a 20% increase in online sales revenue.
+•	Developed and executed a comprehensive email marketing and retention strategy using Klaviyo, including welcome, abandoned cart, and winback flows, and managing twice-weekly campaigns.
+•	Implemented Klaviyo for automated email marketing, improving customer segmentation and engagement, and achieving a 25% increase in email-driven revenue.
+•	Managed the multi-brand digital marketing calendar for product launches and seasonal campaigns, collaborating with creative and brand leadership to ensure alignment and streamline the approval process in ClickUp.
+•	Conducted in-depth data analysis on sales, customer behavior, product churn, and site traffic, generating actionable insights that drove a 15% improvement in conversion rates.
+•	Designed and optimized product listings and keywords, increasing product discoverability by 30%.
+•	Implemented accessibility compliance efforts, ensuring all digital platforms met WCAG standards, enhancing inclusivity.
+
+Dakota Stones - Edina, MN Ecommerce Specialist | July 2018 - Oct 2021
+•	Directed the migration of ERP systems from Intuit POS to Bright Pearl and Shopify, ensuring 100% data accuracy during the transition.
+•	Successfully re-platformed Dakotastones.com to Shopify, improving site responsiveness and usability, which boosted online sales by 18%.
+•	Managed and optimized physical inventory processes, streamlining product listings and increasing operational efficiency by 20%.
+•	Created and executed weekly email campaigns and blog content, increasing website traffic by 15%.
+•	Designed custom HTML, CSS, and JavaScript features to enhance Shopify theme functionality and user experience.
+
+Treasure Island Casino - Welch, MN Senior Digital Specialist | July 2015 - June 2018
+•	Designed and launched TICasino.com, incorporating SEO best practices, which resulted in a 40% increase in organic traffic.
+•	Managed multi-channel digital marketing campaigns, including SEM, PPC, and display ads, achieving a 25% growth in customer acquisition.
+•	Developed and scheduled in-casino and external digital media, enhancing brand visibility across multiple platforms.
+•	Edited video content for social media campaigns, increasing video engagement rates by 30%.
+•	Designed and coded the Mount Frontenac Golf Course website, improving site usability and user satisfaction.
+
+Education
+Brown College - Mendota Heights, MN | April 2006 Associate of Arts in Visual Communications with Emphasis on Multi-Media 
+•	Relevant coursework includes Ecommerce Fundamentals, Digital Marketing, Email Marketing Automation, and Conversion Optimization.
+
+Technical Skills
+•	Platforms: Shopify, Klaviyo, Bright Pearl, ExactTarget, Meta Ads Manager
+•	Analytics: Google Analytics, Looker Studio, Triple Whale
+•	AI Models: ChatGPT, Claude, Google Gemini including APIs
+•	Tools: SQL, HTML, CSS, JavaScript
+•	Marketing: SEO, SEM, PPC, Email Marketing, Retargeting, A/B Testing
+
