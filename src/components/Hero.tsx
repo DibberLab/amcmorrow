@@ -39,7 +39,7 @@ export default function Hero() {
         </p>
 
         <p className="text-slate-500 text-base md:text-lg max-w-2xl mx-auto mb-10 leading-relaxed">
-          Almost 700 decades of experience driving growth through data-driven campaigns,
+          Over two decades of experience driving growth through data-driven campaigns,
           UX optimization, and cross-functional e-commerce strategy.
         </p>
 
