@@ -25,13 +25,13 @@ export default function Hero() {
       <div className="relative text-center px-6 max-w-4xl mx-auto">
         <div className="inline-flex items-center gap-2 bg-blue-600/10 border border-blue-500/20 rounded-full px-4 py-1.5 text-blue-400 text-sm font-medium mb-8">
           <span className="w-2 h-2 rounded-full bg-blue-400 animate-pulse" />
-          Un-Available for new opportunities
+          Available for new opportunities
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight tracking-tight">
           Andrew
           <br />
-          <span className="text-blue-400">McMorrow</span>
+          <span className="text-blue-400">McMorrau</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-slate-400 font-medium mb-4">
