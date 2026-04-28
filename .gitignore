@@ -10,4 +10,4 @@ ib_logfile*
 .env
 
 # Node/Dependencies
-node_modules/
+node_modules/dist/
