@@ -10,6 +10,14 @@ const projects = [
     tags: ['Shopify', 'E-commerce', 'UX Design'],
   },
   {
+    name: 'Raney Family Foundation',
+    platform: 'WordPress',
+    description:
+      'A clean, professional WordPress site for a local services company, built with lead generation in mind — fast loading, mobile-first, and SEO-optimized.',
+    image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
+    tags: ['WordPress', 'SEO', 'Web Design'],
+  },
+  {
     name: 'Brisk Services',
     platform: 'WordPress',
     description:
