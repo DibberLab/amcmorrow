@@ -1,0 +1,46 @@
+Andrew McMorrow
+Minneapolis, MN | amcmorrow84@proton.me | 612-384-8959 | amcmorrow.com
+
+Professional Summary
+A results-driven ecommerce leader with over 10 years of experience architecting D2C strategy and executing technical solutions that drive measurable revenue growth. Proven expertise in optimizing the entire digital ecosystem, from complex website migrations and marketing automation to data analysis and user experience. Adept at leading cross-functional teams and leveraging data-driven insights to surpass ambitious business goals.
+
+Core Competencies
+Ecommerce & Strategy: D2C Strategy & Execution, Ecommerce Optimization, Website Migration, UX/UI Design & Accessibility, Workflow Automation
+Marketing & Analytics: Email Marketing & Automation, Performance Analytics, SEO/SEM/PPC Campaigns, A/B Testing, Conversion Rate Optimization, Content Marketing
+Technical Proficiencies: Shopify, Klaviyo, Google Analytics, Looker, HTML, CSS, JavaScript, SQL, Bright Pearl, Meta Ads, AI Models (ChatGPT, Claude, Gemini APIs)
+
+Professional Experience
+
+Revo Brands - Maple Grove, MN 
+Senior Ecommerce & Digital Strategy Manager | Oct 2021-Present
+Directed the comprehensive digital strategy for D2C and B2B ecommerce channels, leading a cross-functional team to enhance digital presence, optimize user experience, and drive revenue growth through data-driven initiatives.
+	Spearheaded ecommerce strategies across three brands, optimizing websites and wholesale dealer portals to achieve a 20% increase in online sales revenue.
+	Led the D2C strategy, overseeing website content, product merchandising, and promotional campaigns on Shopify to drive sales and enhance customer loyalty.
+	Implemented Klaviyo for automated email marketing, developing welcome, abandoned cart, and win back flows that improved engagement and resulted in a 25% increase in email-driven revenue.
+	Conducted in-depth data analysis on sales, customer behavior, and site traffic, generating actionable insights that drove a 15% improvement in conversion rates.
+	Orchestrated the multi-brand digital marketing calendar for product launches and campaigns, using ClickUp to streamline collaboration with creative and brand leadership.
+	Enhanced product discoverability by 30% by designing and optimizing product listings and keywords.
+	Led accessibility compliance efforts to ensure all digital platforms met WCAG standards, enhancing inclusivity.
+
+Dakota Stones - Edina, MN 
+Director of Ecommerce & Technology | April 2007 - Oct 2021
+Served as the lead data strategist and technical director, culminating in a leadership position overseeing all ecommerce operations, digital marketing, and IT infrastructure for multiple brand websites.
+	Directed a complex, dual-system migration of ERP from Intuit POS to Bright Pearl and the company website to Shopify, ensuring 100% data accuracy during the transition.
+	Successfully re-platformed Dakotastones.com to Shopify, which boosted online sales by 18% through improved site responsiveness and usability.
+	Increased operational efficiency by 20% by managing and optimizing physical inventory processes and streamlining product listings.
+	Engineered custom HTML, CSS, and JavaScript features to enhance Shopify theme functionality and user experience.
+	Grew website traffic by 15% by creating and executing weekly email campaigns and blog content.
+
+Treasure Island Casino - Welch, MN 
+Digital Marketing Strategist | Feb 2016 - June 2019
+Developed and executed integrated digital marketing strategies for a premier resort and casino, managing the online presence for the main casino and its associated brands, including a golf course and community website.
+	Designed and launched TICasino.com, incorporating SEO best practices that resulted in a 40% increase in organic traffic.
+	Managed multi-channel digital marketing campaigns (SEM, PPC, display ads), achieving a 25% growth in customer acquisition.
+	Increased video engagement rates on social media by 30% through strategic content editing and campaign deployment.
+	Developed and coded the Mount Frontenac Golf Course website to improve site usability and user satisfaction.
+
+Education
+Brown College - Mendota Heights, MN | April 2006 
+Associate of Arts in Visual Communications with Emphasis on Multi-Media
+	Relevant Coursework: Ecommerce Fundamentals, Digital Marketing, Email Marketing Automation, and Conversion Optimization.
+
