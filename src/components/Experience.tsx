@@ -1,6 +1,7 @@
 const jobs = [
   {
     company: 'Revo Brands',
+    logo: '/logos/revobrands-logo.png',
     url: 'https://revobrands.com',
     role: 'Web & UX Design',
     tags: ['Web Design', 'UX Design'],
@@ -9,6 +10,7 @@ const jobs = [
   },
   {
     company: 'Real Avid',
+    logo: '/logos/realavid-logo.png',
     url: 'https://realavid.com',
     role: 'SEO, UX & Email Marketing',
     tags: ['SEO', 'UX Design', 'Email Marketing'],
@@ -17,6 +19,7 @@ const jobs = [
   },
   {
     company: 'Outdoor Edge',
+    logo: '/logos/outdooredge-logo.png',
     url: 'https://outdooredge.com',
     role: 'UX Design & Digital Marketing',
     tags: ['UX Design', 'SEO', 'Email Marketing'],
@@ -25,6 +28,7 @@ const jobs = [
   },
   {
     company: 'WorkIQ Tools',
+    logo: '/logos/workiqtools-logo.png',
     url: 'https://workiqtools.com',
     role: 'Brand & Web Strategy',
     tags: ['Brand Development', 'Web Design', 'SEO', 'Email Marketing'],
@@ -33,6 +37,7 @@ const jobs = [
   },
   {
     company: 'Dakota Stones',
+    logo: '/logos/dakotastones-logo.png',
     url: 'https://dakotastones.com',
     role: 'E-commerce & ERP',
     tags: ['ERP', 'Web Development', 'Email Marketing'],
@@ -41,6 +46,7 @@ const jobs = [
   },
   {
     company: 'Goody Beads',
+    logo: '/logos/goodybeads-logo.png',
     url: 'https://goodybeads.com',
     role: 'Database & Web Design',
     tags: ['Database Management', 'Web Design', 'Email Marketing'],
@@ -49,6 +55,7 @@ const jobs = [
   },
   {
     company: 'Treasure Island Casino',
+    logo: '/logos/ticasino-logo.png',
     url: 'https://ticasino.com',
     role: 'Email & Digital Marketing',
     tags: ['Email Marketing', 'Video Graphics', 'SEO'],
@@ -57,6 +64,7 @@ const jobs = [
   },
   {
     company: 'Ainsley Shea',
+    logo: '/logos/ainsleyshea-logo.png',
     url: 'https://ainsleyshea.com',
     role: 'Web & Brand Design',
     tags: ['Web Design', 'Brand Development'],
@@ -64,6 +72,7 @@ const jobs = [
       'Developed a complete brand identity and professional website to establish a compelling online presence for this boutique firm.',
   },
 ];
+
 
 const tagColors: Record<string, string> = {
   'Web Design': 'bg-blue-50 text-blue-700 border-blue-100',
@@ -96,6 +105,13 @@ export default function Experience() {
               className="bg-white rounded-2xl border border-slate-100 p-6 hover:border-blue-200 hover:shadow-lg hover:shadow-blue-50 hover:-translate-y-1 transition-all duration-300 flex flex-col"
             >
               <div className="flex-1">
+                <a href={job.url} target="_blank" rel="noopener noreferrer" className="block mx-auto w-fit mb-0">
+                  <img
+                    src={job.logo}
+                    alt={`${job.company} logo`}
+                    className="h-16 w-auto max-w-[240px] object-contain"
+                  />
+                </a>
   <h3 className="text-slate-900 font-bold text-lg mb-1">
     {/* Wrap the company name in a link */}
     <a 
