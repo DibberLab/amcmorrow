@@ -4,6 +4,7 @@ const projects = [
   {
     name: 'Epic Ebike Adventures',
     platform: 'Shopify',
+    link: 'https://epicebikeadventures.com/',
     description:
       'A full-featured Shopify store for an e-bike rental and tour business, complete with booking functionality, product showcase, and optimized user flows for conversions.',
     image: 'https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=800',
@@ -12,6 +13,7 @@ const projects = [
 {
     name: 'Raney Family Scholarship',
     platform: 'Static HTML / CSS',
+    link: 'https://raneyfamilyscholarship.org/',
     description:
       'A welcoming, nature-inspired landing page for a Vermont-based camp scholarship, designed to streamline the application process and provide clear accessibility information for families.',
     image: 'https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=800',
@@ -84,9 +86,20 @@ export default function Projects() {
               </div>
 
               <div className="p-6 flex-1 flex flex-col">
-                <h3 className="text-slate-900 font-bold text-lg mb-2 group-hover:text-blue-600 transition-colors">
-                  {project.name}
-                </h3>
+                {project.link ? (
+                  <a href={project.link} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-slate-900 font-bold text-lg mb-2 group-hover:text-blue-600 transition-colors">
+                      {project.name}
+                    </h3>
+                  </a>
+                ) : (
+                  <div>
+                    <h3 className="text-slate-900 font-bold text-lg mb-2">{project.name}</h3>
+                    <span className="inline-block text-xs font-medium text-slate-400 bg-slate-50 border border-slate-100 px-2 py-0.5 rounded mb-2">
+                      Site no longer active
+                    </span>
+                  </div>
+                )}
                 <p className="text-slate-500 text-sm leading-relaxed mb-5 flex-1">{project.description}</p>
                 <div className="flex flex-wrap gap-2">
                   {project.tags.map((tag) => (
