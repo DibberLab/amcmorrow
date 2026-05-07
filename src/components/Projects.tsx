@@ -9,13 +9,13 @@ const projects = [
     image: 'https://images.pexels.com/photos/1149601/pexels-photo-1149601.jpeg?auto=compress&cs=tinysrgb&w=800',
     tags: ['Shopify', 'E-commerce', 'UX Design'],
   },
-  {
-    name: 'Raney Family Foundation',
-    platform: 'WordPress',
+{
+    name: 'Raney Family Scholarship',
+    platform: 'Static HTML / CSS',
     description:
-      'A clean, professional WordPress site for a local services company, built with lead generation in mind — fast loading, mobile-first, and SEO-optimized.',
-    image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
-    tags: ['WordPress', 'SEO', 'Web Design'],
+      'A welcoming, nature-inspired landing page for a Vermont-based camp scholarship, designed to streamline the application process and provide clear accessibility information for families.',
+    image: 'https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=800',
+    tags: ['Web Development', 'Non-Profit', 'UI Design'],
   },
   {
     name: 'Brisk Services',
