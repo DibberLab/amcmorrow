@@ -1,3 +1,5 @@
+import FadeIn from './FadeIn';
+
 const jobs = [
   {
     company: 'Revo Brands',
@@ -90,55 +92,55 @@ export default function Experience() {
   return (
     <section id="experience" className="py-24 bg-slate-50">
       <div className="max-w-6xl mx-auto px-6">
-        <div className="text-center mb-14">
-          <span className="text-blue-600 text-sm font-semibold uppercase tracking-widest">Career</span>
-          <h2 className="text-4xl font-bold text-slate-900 mt-3">Full-Time Experience</h2>
-          <p className="text-slate-500 mt-3 max-w-xl mx-auto">
-            A track record of delivering digital growth across diverse industries.
-          </p>
-        </div>
+        <FadeIn>
+          <div className="text-center mb-14">
+            <span className="text-blue-600 text-sm font-semibold uppercase tracking-widest">Career</span>
+            <h2 className="text-4xl font-bold text-slate-900 mt-3">Full-Time Experience</h2>
+            <p className="text-slate-500 mt-3 max-w-xl mx-auto">
+              A track record of delivering digital growth across diverse industries.
+            </p>
+          </div>
+        </FadeIn>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-          {jobs.map((job) => (
-            <div
-              key={job.company}
-              className="bg-white rounded-2xl border border-slate-100 p-6 hover:border-blue-200 hover:shadow-lg hover:shadow-blue-50 hover:-translate-y-1 transition-all duration-300 flex flex-col"
-            >
-              <div className="flex-1">
-                <a href={job.url} target="_blank" rel="noopener noreferrer" className="block mx-auto w-fit mb-0">
-                  <img
-                    src={job.logo}
-                    alt={`${job.company} logo`}
-                    className="h-16 w-auto max-w-[240px] object-contain"
-                  />
-                </a>
-  <h3 className="text-slate-900 font-bold text-lg mb-1">
-    {/* Wrap the company name in a link */}
-    <a 
-      href={job.url} 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="hover:text-blue-600 transition-colors duration-200"
-    >
-      {job.company}
-    </a>
-  </h3>
-                <p className="text-blue-600 text-sm font-medium mb-4">{job.role}</p>
-                <p className="text-slate-500 text-sm leading-relaxed mb-5">{job.description}</p>
+          {jobs.map((job, i) => (
+            <FadeIn key={job.company} delay={i * 55}>
+              <div className="bg-white rounded-2xl border border-slate-100 p-6 hover:border-blue-200 hover:shadow-lg hover:shadow-blue-50 hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+                <div className="flex-1">
+                  <a href={job.url} target="_blank" rel="noopener noreferrer" className="block mx-auto w-fit mb-0">
+                    <img
+                      src={job.logo}
+                      alt={`${job.company} logo`}
+                      className="h-16 w-auto max-w-[240px] object-contain"
+                    />
+                  </a>
+                  <h3 className="text-slate-900 font-bold text-lg mb-1">
+                    <a
+                      href={job.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-blue-600 transition-colors duration-200"
+                    >
+                      {job.company}
+                    </a>
+                  </h3>
+                  <p className="text-blue-600 text-sm font-medium mb-4">{job.role}</p>
+                  <p className="text-slate-500 text-sm leading-relaxed mb-5">{job.description}</p>
+                </div>
+                <div className="flex flex-wrap gap-2 mt-auto">
+                  {job.tags.map((tag) => (
+                    <span
+                      key={tag}
+                      className={`text-xs font-medium px-2.5 py-1 rounded-lg border ${
+                        tagColors[tag] ?? 'bg-slate-50 text-slate-600 border-slate-100'
+                      }`}
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
               </div>
-              <div className="flex flex-wrap gap-2 mt-auto">
-                {job.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className={`text-xs font-medium px-2.5 py-1 rounded-lg border ${
-                      tagColors[tag] ?? 'bg-slate-50 text-slate-600 border-slate-100'
-                    }`}
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
-            </div>
+            </FadeIn>
           ))}
         </div>
       </div>
