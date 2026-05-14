@@ -161,7 +161,7 @@ export default function Hero() {
           style={{ animation: 'fade-up 0.7s cubic-bezier(0.16,1,0.3,1) 0ms both' }}
           className="inline-flex items-center gap-2 bg-blue-600/10 border border-blue-500/20 rounded-full px-4 py-1.5 text-blue-400 text-sm font-medium mb-8"
         >
-          <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+          <span className="w-[0.55rem] h-[0.55rem] rounded-full bg-emerald-400 animate-pulse" />
           Available for new opportunities
         </div>
 
